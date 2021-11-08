@@ -1,16 +1,5 @@
-# timepicker
+# TIME PICKER
 
-A new Flutter project.
+Use this widget to bring up a clock so that the user can pick a time :)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![thumbnaik](https://user-images.githubusercontent.com/29016489/140745062-18b9d898-f195-412b-a492-60c56a6857b6.png)
