@@ -2,4 +2,8 @@
 
 Use this widget to bring up a clock so that the user can pick a time :)
 
-![thumbnaik](https://user-images.githubusercontent.com/29016489/140745062-18b9d898-f195-412b-a492-60c56a6857b6.png)
+![Rotato Snapshot](https://user-images.githubusercontent.com/29016489/140745421-40672252-e700-431e-80fd-bd39d689dc74.png)
+
+Check out my easy youtube tutorial!
+
+![A6376749-D2FE-4839-804F-6FE8A96FCD31](https://user-images.githubusercontent.com/29016489/140745402-30b6641a-6530-41d8-a05b-42a5429ba7e3.JPG)
